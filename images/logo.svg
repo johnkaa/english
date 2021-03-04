@@ -1,0 +1,25 @@
+<svg id="logo" xmlns="http://www.w3.org/2000/svg" width="137" height="38" viewBox="0 0 137 38">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 17.784px;
+        font-weight: 700;
+      }
+
+      .cls-1, .cls-3 {
+        fill: #fff;
+        font-family: "Century Gothic";
+      }
+
+      .cls-2 {
+        fill: #e40023;
+      }
+
+      .cls-3 {
+        font-size: 5.958px;
+      }
+    </style>
+  </defs>
+  <text id="English_GO_" data-name="English GO!" class="cls-1" transform="translate(-0.505 18.704) scale(1.395)">English <tspan class="cls-2">GO!</tspan></text>
+  <text id="школа_английского_языка" data-name="школа английского языка" class="cls-3" transform="translate(-0.505 38.088) scale(1.796)">школа английского языка</text>
+</svg>
